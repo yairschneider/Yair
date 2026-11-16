@@ -12,6 +12,8 @@ public abstract class User {
     public User() {
         // בנאי ריק דרוש עבור Firebase
         //aaaaaa
+        //1411111
+        //.....
     }
 
     public User(String userId, String name, String email, String phone, String role) {
